@@ -24,7 +24,7 @@ Currently focused on:
 Red team operations tracker for timelines, evidence, engagement notes, and finding candidates.
 
 [Red Ronin](https://github.com/icecubesandwich/red-ronin)
-Red team infrastructure experiments around redirectors, C2, cloud deployment, and operator workflows.
+Red team infrastructure experiments around redirectors, C2, cloud deployment, and operator workflows. (Coming Soon)
 
 [CaddySmith](https://github.com/icecubesandwich/caddysmith)
 Helper tooling for Caddy-based redirector setups and infrastructure automation.
@@ -70,7 +70,7 @@ GIAC GCFE
 Engagement timeline and operations tracker for offensive security work.
 
 **Red Ronin**
-Cloud-hosted red team infrastructure experiments, redirectors, and C2 deployment workflows.
+Cloud-hosted red team infrastructure experiments, redirectors, and C2 deployment workflows. (Coming Soon)
 
 **CaddySmith**
 Small infrastructure automation project for Caddy redirector setups.
