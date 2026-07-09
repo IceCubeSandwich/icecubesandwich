@@ -20,13 +20,13 @@ Currently focused on:
 
 ## terrible code written by me
 
-[Chronix](https://github.com/tbrewster0612/chronix)
+[Chronix](https://github.com/icecubesandwich/chronix)
 Red team operations tracker for timelines, evidence, engagement notes, and finding candidates.
 
-[Red Ronin](https://github.com/tbrewster0612/red-ronin)
+[Red Ronin](https://github.com/icecubesandwich/red-ronin)
 Red team infrastructure experiments around redirectors, C2, cloud deployment, and operator workflows.
 
-[CaddySmith](https://github.com/tbrewster0612/caddysmith)
+[CaddySmith](https://github.com/icecubesandwich/caddysmith)
 Helper tooling for Caddy-based redirector setups and infrastructure automation.
 
 ---
