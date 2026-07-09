@@ -49,7 +49,7 @@ I like the parts of offensive security where tradecraft, infrastructure, automat
 
 ## Certs
 
-Because apparently HR still wants proof.
+Gotta keep them shiny for HR.
 
 **Offensive Security**
 Offsec OSEP
