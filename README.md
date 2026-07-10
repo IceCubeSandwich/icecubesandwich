@@ -18,20 +18,17 @@ Currently focused on:
 
 ---
 
-## terrible code written by me
+## Ultra cool code written by me
 
 [Chronix](https://github.com/icecubesandwich/chronix)
 Red team operations tracker for timelines, evidence, engagement notes, and finding candidates.
-
-[Red Ronin](https://github.com/icecubesandwich/red-ronin)
-Red team infrastructure experiments around redirectors, C2, cloud deployment, and operator workflows. (Coming Soon)
 
 [CaddySmith](https://github.com/icecubesandwich/caddysmith)
 Helper tooling for Caddy-based redirector setups and infrastructure automation.
 
 ---
 
-## what I actually like
+## What I actually like
 
 I like the parts of offensive security where tradecraft, infrastructure, automation, and quality of life meet:
 
@@ -53,10 +50,15 @@ Gotta keep them shiny for HR.
 
 **Offensive Security**
 Offsec OSEP
+
 Offsec OSCP
+
 ZPS CRTO
+
 PwnedLabs ACRTP
+
 CWL MCRTA
+
 CWL CRT-ID
 
 **Forensics / Detection**
@@ -64,7 +66,7 @@ GIAC GCFE
 
 ---
 
-## current projects
+## Current projects
 
 **Chronix**
 Engagement timeline and operations tracker for offensive security work.
@@ -77,24 +79,20 @@ Small infrastructure automation project for Caddy redirector setups.
 
 ---
 
-## things I like breaking
+## Things I like breaking
 
 * Active Directory
 * Identity systems
-* Cloud
-* Over-permissioned service accounts
-* Trust relationships that should not exist
+* The cloud
+* Trust (& relationships that should not exist)
 
 ---
 
-## things I like building
+## Things I like building
 
 * Red team infrastructure
 * Operator utilities
 * Automation scripts
-* Engagement trackers
-* C2 deployment helpers
-* Identity attack-path tooling
 * Quality-of-life tools for operators
 * Tools that reduce repetitive work
 
@@ -112,7 +110,7 @@ Python, C, C++, PowerShell, Bash, YAML, JSON
 Linux, Windows, AWS, Terraform, Caddy, Cloudflare, redirectors, VPNs, C2 staging
 
 **C2 / offensive tooling**
-Cobalt Strike, Sliver, Adaptix, Havoc, BloodHound, Impacket, Certipy, NetExec
+Cobalt Strike, Sliver, Adaptix, Havoc, BloodHound, Impacket, Certipy, NetExec & More
 
 ---
 
