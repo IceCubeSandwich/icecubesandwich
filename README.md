@@ -49,19 +49,17 @@ I like the parts of offensive security where tradecraft, infrastructure, automat
 Gotta keep them shiny for HR.
 
 **Offensive Security**
-Offsec OSEP
 
-Offsec OSCP
+Offsec OSEP & OSCP
 
 ZPS CRTO
 
 PwnedLabs ACRTP
 
-CWL MCRTA
-
-CWL CRT-ID
+CWL MCRTA & CRT-ID
 
 **Forensics / Detection**
+
 GIAC GCFE
 
 ---
