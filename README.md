@@ -3,18 +3,6 @@
 Red Team Operator | Offensive Security Engineer | Identity Tradecraft Enjoyer
 
 Most of my work sits somewhere between red team operations, Active Directory abuse, identity attacks, C2 infrastructure, automation, and quality-of-life tooling.
-
-## Current projects
-
-**Chronix**
-Engagement timeline and operations tracker for offensive security work.
-
-**Red Ronin**
-Cloud-hosted red team infrastructure experiments, redirectors, and C2 deployment workflows. (Coming Soon)
-
-**CaddySmith**
-Small infrastructure automation project for Caddy redirector setups.
-
 ---
 
 ## Ultra cool code written by me
