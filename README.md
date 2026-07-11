@@ -98,7 +98,7 @@ Small infrastructure automation project for Caddy redirector setups.
 
 ---
 
-## toolbox
+## Toolbox
 
 **Tradecraft**
 Active Directory, ADCS, Kerberos, BloodHound, lateral movement, privilege escalation, C2 operations, cloud identity abuse
@@ -114,7 +114,7 @@ Cobalt Strike, Sliver, Adaptix, Havoc, BloodHound, Impacket, Certipy, NetExec & 
 
 ---
 
-## general philosophy
+## General philosophy
 
 Good tooling should make the operator’s life easier.
 
@@ -127,11 +127,10 @@ I like tools that:
 * make tradecraft repeatable
 * make reporting less painful
 * help operators stay organized
-* turn messy engagements into something understandable
 
 ---
 
-## contact
+## Contact
 
 GitHub: [@Github](https://github.com/icecubesandwich)
 LinkedIn: [Tyrrell Brewster](https://www.linkedin.com/in/tyrrell-brewster/)
