@@ -2,19 +2,18 @@
 
 Red Team Operator | Offensive Security Engineer | Identity Tradecraft Enjoyer
 
-I care about practical offensive security: getting access, understanding why it worked, automating the boring parts, and building tools that make life easier.
+Most of my work sits somewhere between red team operations, Active Directory abuse, identity attacks, C2 infrastructure, automation, and quality-of-life tooling.
 
-Most of my work sits somewhere between red team operations, Active Directory abuse, identity attacks, C2 infrastructure, automation, and quality-of-life tooling for offensive security workflows.
+## Current projects
 
-Currently focused on:
+**Chronix**
+Engagement timeline and operations tracker for offensive security work.
 
-* Red team operations
-* Identity and Active Directory tradecraft
-* C2 infrastructure and redirectors
-* Operator automation
-* Quality-of-life tooling
-* Cloud and hybrid attack paths
-* Cleaner engagement workflows
+**Red Ronin**
+Cloud-hosted red team infrastructure experiments, redirectors, and C2 deployment workflows. (Coming Soon)
+
+**CaddySmith**
+Small infrastructure automation project for Caddy redirector setups.
 
 ---
 
@@ -25,22 +24,6 @@ Red team operations tracker for timelines, evidence, engagement notes, and findi
 
 [CaddySmith](https://github.com/icecubesandwich/caddysmith)
 Helper tooling for Caddy-based redirector setups and infrastructure automation.
-
----
-
-## What I actually like
-
-I like the parts of offensive security where tradecraft, infrastructure, automation, and quality of life meet:
-
-* Active Directory abuse
-* C2 infrastructure
-* Redirectors
-* Operator tooling
-* Cloud attack paths
-* Identity-based privilege escalation
-* Report automation
-* Cleaner notes, timelines, and evidence handling
-* Turning annoying repeatable tasks into tools
 
 ---
 
@@ -61,38 +44,6 @@ CWL MCRTA & CRT-ID
 **Forensics / Detection**
 
 GIAC GCFE
-
----
-
-## Current projects
-
-**Chronix**
-Engagement timeline and operations tracker for offensive security work.
-
-**Red Ronin**
-Cloud-hosted red team infrastructure experiments, redirectors, and C2 deployment workflows. (Coming Soon)
-
-**CaddySmith**
-Small infrastructure automation project for Caddy redirector setups.
-
----
-
-## Things I like breaking
-
-* Active Directory
-* Identity systems
-* The cloud
-* Trust (& relationships that should not exist)
-
----
-
-## Things I like building
-
-* Red team infrastructure
-* Operator utilities
-* Automation scripts
-* Quality-of-life tools for operators
-* Tools that reduce repetitive work
 
 ---
 
